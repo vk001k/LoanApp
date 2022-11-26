@@ -7,7 +7,7 @@ Loan app is simple multi auth application where user can login through the porta
 
 1. Run git clone https://github.com/jeremykenedy/laravel-auth.git laravel-auth
 2. create database loanApp;
-3. From the projects root run cp .env.example .env
+3. From the projects root copy .env.example and rename to .env
 4. Configure your .env file
 5. Install composer
 6. Run composer update from the projects root folder
